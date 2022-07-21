@@ -9,7 +9,7 @@ body{
     flex-wrap: wrap;
 }
     
-@media screen and(min-width:375px ){
+
     
 
 .container{
@@ -102,5 +102,5 @@ font-weight: 700;
 font-family:'Montserrat', sans-serif; 
 cursor: pointer;
 }
-
+@media screen and(min-width:375px ){
 }
